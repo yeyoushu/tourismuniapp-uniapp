@@ -1,0 +1,7 @@
+{
+  "setting": {
+    "ignoreDevUnusedFiles": false,
+    "ignoreUploadUnusedFiles": false
+    // ... 其他原有设置
+  }
+}
